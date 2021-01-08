@@ -1,7 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import re
-import csv
 import pandas as pd
 for i in range(2016, 2021):
     url1 = "https://summerofcode.withgoogle.com"
