@@ -1,213 +1,213 @@
 ,Organisation Name,Organisation Tagline,Technologies Used,GSOC Organisation Link
-0,3DTK,The 3D Toolkit provides algorithms and methods to process 3D point clouds,"c/c++,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5685665089978368/
-1,52° North Initiative for Geospatial Open Source Software GmbH,52°North works on innovative ideas and technologies in geoinformatics,"javascript,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/
-2,AerospaceResearch.net,making space together,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/
-3,aimacode,"Code for the book ""Artificial Intelligence: A Modern Approach""","python,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/
+0,3DTK,The 3D Toolkit provides algorithms and methods to process 3D point clouds,"c/c++,  cmake,  opencv,  ros,  boost",https://summerofcode.withgoogle.com/archive/2018/organizations/5685665089978368/
+1,52° North Initiative for Geospatial Open Source Software GmbH,52°North works on innovative ideas and technologies in geoinformatics,"javascript,  java,  spring,  r,  big data",https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/
+2,AerospaceResearch.net,making space together,"python,  c/c++,  vhdl,  boinc,  java",https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/
+3,aimacode,"Code for the book ""Artificial Intelligence: A Modern Approach""","python,  java,  javascript,  ai,  jupyter",https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/
 4,Amahi,"Amahi, a home digital assistant at your fingertips.",,https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/
-5,AOSSIE - Australian Open Source Software Innovation and Education,Australian Umbrella Org for Open-Source Projects,"scala,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/
-6,Apache Software Foundation,Providing open source software to the public free of charge,"c,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5175246747336704/
-7,Apertium,A free/open-source platform for machine translation and language technology,"c++,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5754587369701376/
-8,Apertus Association,Open Technology for Professional Film Production,"fpga,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5706275094528000/
-9,appleseedhq,A modern open source rendering engine for animation and visual effects,"c/c++,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5125340301099008/
-10,ArduPilot,The worlds most advanced open source autopilot,"drones,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/5149138983321600/
-11,BeagleBoard.org Foundation,Open hardware and software for physical computing,"linux,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5713309579870208/
-12,Beam Community,"From distributed systems, to robust servers and language design on the Erlang VM","erlang,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5082029850886144/
-13,BeeWare Project,Tools for cross-platform Python application development.,"python,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5679790782676992/
-14,Berkman Klein Center for Internet & Society at Harvard University,"Exploring cyberspace, sharing in its study, and helping pioneer its development.","ruby on rails,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5751016104394752/
-15,Blender Foundation,We build a free and open source 3D creation suite.,"c,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/6251240207941632/
-16,Boost C++ Libraries,Boost provides free peer-reviewed portable C++ source libraries,"c++11,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5136992144719872/
-17,Boston University / XIA,Crowdsourcing the future Internet,"xia,  Cloud",https://summerofcode.withgoogle.com/archive/2018/organizations/5193342920949760/
-18,BRL-CAD,"Solid modeling, 3D printing, comp. graphics, & other computer-aided tech (CAx)!","c/c++,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5078956801785856/
-19,Canadian Centre for Computational Genomics,Analytical solutions for Next-Generation Sequencing data,"r,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5194176413040640/
-20,Catrobat,Computational Thinking for all through visual programming on phones,"java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6262892051562496/
-21,CCExtractor Development,"Experimenting with video software and hardware, subtitles, imaging, cloud...","c,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5152211763986432/
-22,Center for Research In Open Source Software (CROSS) at UC Santa Cruz,Bridging the Gap Between Student Work and Open Source Software Projects,"ceph,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/6272574585569280/
-23,CERN-HSF,Umbrella organization for Particle (High-energy) Physics-related projects,"c/c++,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/4841240159846400/
-24,CGAL Project,C++ library of computational geometry and geometry processing,"c++,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5076776166359040/
-25,CHAOSS: Community Health Analytics Open Source Software,Advacing open source project health and sustainability,"python 3,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/5116840829255680/
-26,Checker Framework,"Preventing programming errors before they happen, via easy-to-use verification","java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6235541699821568/
-27,CiviCRM LLC,"Build, engage and organize your constituents","php,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/4828166816268288/
-28,Classical Language Toolkit,NLP for the Ancient World,"python,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5114353707646976/
-29,"CLiPS, University of Antwerp",Computational (Psycho)Linguistics,"python,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/6272891540733952/
-30,Cloud Native Computing Foundation (CNCF),Sustaining open source cloud native projects like Kubernetes and Prometheus,"kubernetes,  Cloud",https://summerofcode.withgoogle.com/archive/2018/organizations/4800404952973312/
-31,CloudCV,Building platforms for reproducible AI research,"machine learning,  Cloud",https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/
-32,coala,Linting and Fixing Code for All Languages,"django,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/4906591174262784/
-33,Computational Biology @ University of Nebraska-Lincoln,"Further knowledge in health through computation, data visualization and analysis","javascript,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6010802972655616/
-34,Conversations.im,An open source instant messaging client and ecosystem based on Jabber & XMPP,"java,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/6032491081105408/
-35,Cuneiform Digital Library Initiative,International digital library of artifacts inscribed with cuneiform writing,"python,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/4794601982394368/
-36,DBpedia,"An Open Platform for a Large, Multilingual, Semantic Knowledge Graph","rdf,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/6317537323122688/
-37,Debian Project,the universal operating system,"javascript,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/6481377977434112/
-38,Developers Italia,An open community digital public services developers,"python,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/6208428913459200/
-39,Digital Impact Alliance,Supporting open source projects for a digital society that serves everyone.,"android,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/6491299083452416/
-40,Django Software Foundation,The web framework for perfectionists with deadlines.,"python,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/5080222944722944/
-41,Drupal,"Drupal is a Free, Open, Modular CMS written in PHP. Let's make something amazing","web,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/5920501889236992/
-42,Earth Science Information Partners (ESIP),Making Earth science data matter.,"kubernetes,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/4862665201549312/
-43,Elastic,"We are the creators of Elasticsearch, Kibana, Beats, and Logstash.","java,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/5469541127684096/
-44,Eta,Eta is a dialect of Haskell on the Java Virtual Machine.,"haskell,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/4825444746526720/
-45,Fedora Project,"Fedora Linux is built on the foundations of Freedom, Friends, Features, & First","linux,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/5363354906394624/
-46,FFmpeg,"A complete, cross-platform solution to record, convert & stream audio and video.","c,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5447853019234304/
-47,FOSSASIA,Improve People's Lives,"java,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/6489254813237248/
-48,FOSSology,Open Source License Compliance by Open Source Software,"php,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5988565108391936/
-49,Free and Open Source Silicon Foundation,"The home for open source hardware, EDA tools and the related ecosystem","fpga,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/6276259533291520/
-50,Free UK Genealogy,Human transcription of family history data,"mongodb,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/6511795204259840/
-51,FreeBSD,FreeBSD: The Foundation of the Internet,"c/c++,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/4807073560788992/
-52,FreeType,A software library to render fonts.,"c,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/6550700024659968/
-53,freifunk,Freifunk is a non-commercial initiative for free and open wireless networks.,"openwrt,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/5072753191288832/
-54,"Genes, Genomes and Variation",Genomic sequence and annotation databases and browsers,"perl,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5477445075468288/
-55,GENIVI Alliance,Developing open software for IVI and the connected car.,"yocto,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/5111873431142400/
-56,Gentoo Foundation,"A flexible, source-based Linux distribution.","shell script,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/5172443744305152/
-57,GFOSS - Open Technologies Alliance,Promote Openness with the use and development of Open Standards & Open Source.,"python 3,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5472477677355008/
-58,Git,"Fast, scalable, distributed revision control system","c,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/4840889583140864/
-59,Global Alliance for Genomics and Health,We develop open standards and tools for genomics to benefit human health.,"java,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/4659817385820160/
-60,GNOME,A free desktop environment for GNU/Linux.,"c,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/5224661688254464/
-61,GNSS-SDR,An open source Global Navigation Satellite Systems software-defined receiver,"c/c++,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5951344653369344/
-62,GNU Compiler Collection (GCC),GCC,"c++,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6598377584197632/
-63,GNU Octave,Free Your Numbers,"c++,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6026712471044096/
-64,GNU Project,GNU is an operating system that is free software,"c,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/6595441034526720/
-65,GNU Radio,The free & open software radio ecosystem,"c++,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/5370023514210304/
-66,Godot Engine,Godot is a multi-platform 2D and 3D game engine with a feature-rich editor,"c++,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5406815277809664/
-67,gRPC,"A high performance, open-source universal RPC framework","grpc,  Cloud",https://summerofcode.withgoogle.com/archive/2018/organizations/4768790235578368/
-68,Haiku,Integrated operating system for personal computers,"c++,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/5826402578333696/
-69,Haskell.org,"Standardized, statically typed, lazy functional programming language","haskell,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5391116769689600/
-70,Homebrew,"An open source, console package manager for macOS","ruby,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/4830398454431744/
-71,INCF,Advancing global collaborative brain research,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6206122851565568/
-72,Inclusive Design Institute,The IDI addresses the challenge of designing ICT to work for all potential users,"javascript,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/6198653098131456/
-73,Inkscape,"Inkscape is a professional vector graphics editor for Windows, Mac OSX, & Linux.","svg,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/6036062346412032/
-74,Inria Foundation,SOFA is an efficient simulation engine for research in medical simulation.,"c/c++,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6603344982310912/
-75,Institute for Artificial Intelligence,Research in Artificial Intelligence for Autonomous Mobile Robots,"c++,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/4682207855640576/
-76,Intel Media And Audio For Linux,"Open Source Media libraries, Applications,  User space driver and Specification.","video,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/4797072796549120/
-77,InterMine,"Integrating biological data sources, making it easy to query and analyse data","postgresql,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5222767339241472/
-78,Internet Archive,Universal Access to All Knowledge,"pthon,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/6298343651147776/
-79,Internet Systems Consortium,We support critical internet infrastructure with quality open source,"dhcp,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/4744165577457664/
-80,JBoss Community,Community of Java projects around JBoss Middleware,"java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5357551935815680/
-81,JdeRobot - Universidad Rey Juan Carlos,A software framework for developing applications in robotics and computer vision,"ros,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/4773757633691648/
-82,Jenkins project,Jenkins is an open-source automation server,"java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5245157809061888/
-83,JGraphT,Java library that provides graph data-structures and algorithms.,"java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5956298361274368/
-84,Jitsi,The most innovative Open Source video conferencing community. Period.,"java,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/6348667246084096/
-85,Joomla!,"Joomla, the flexible platform empowering website creators.","php,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/6484151049912320/
-86,JSK Robotics Laboratory / The University of Tokyo,JSK is focusing on the fundamental functions & systems for intelligent robots .,"ros,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5947308659179520/
-87,KDE Community,Experience Freedom!,"qt,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/6517016676532224/
-88,Kiwix,Internet content for people without internet access,"android,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/4687429327912960/
-89,LabLua,Programming Languages Research with emphasis on the Lua language,"lua,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6371057715904512/
-90,languagetool.org,Style and grammar checker,"java,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/4898832450060288/
-91,LEAP Encryption Access Project,We make encryption easy to use.,"python,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/6409962536304640/
-92,LibreHealth,Healthcare for Humanity,"java,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5403839536562176/
-93,LibreOffice,LibreOffice is the leading free and open source office suite.,"c++,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/6489903890169856/
-94,libvirt,Toolkit to manage virtualization hosts from many languages,"hypervisor,  Cloud",https://summerofcode.withgoogle.com/archive/2018/organizations/6037767851081728/
-95,LLVM Compiler Infrastructure,LLVM Compiler Infrastructure,"llvm,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5263452624912384/
-96,LuaRocks,The package manager for the Lua programming language,"lua,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/4765853685907456/
-97,MariaDB Foundation,One of the most popular databases on the web with many notable users,"mariadb,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/5785567371460608/
-98,Matrix.org,"An ambitious open ecosystem for decentralised, encrypted communication.","golang,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/6529739443404800/
-99,MetaBrainz Foundation Inc.,Curating open data sets with open source softer and loads of volunteers.,"python,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/5222617418039296/
-100,Metasploit,The world’s most used penetration testing framework,"ruby,  Security",https://summerofcode.withgoogle.com/archive/2018/organizations/5923381731917824/
-101,Mixxx DJ Software,"DJ Your Way, For Free. Join our friendly community of hackers, DJs, and artists!","qt,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5431834603159552/
-102,mlpack,a scalable C++ machine learning library,"c++,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/4895891068551168/
-103,Mobile Robot Programming Toolkit (MRPT),Empowering C++ development in robotics,"c/c++,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6557734510002176/
-104,Moodle,Empowering educators to improve our world,"php,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/5904449381859328/
-105,MovingBlocks,Terasology: like an open source Minecraft - imagine the possibilities!,"java,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/4941292362530816/
-106,Mozilla,"Internet for people, not profit.","javascript,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/6589662424465408/
-107,MuseScore,"Create, play and print beautiful sheet music","qt,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/4728147161382912/
-108,National Resource for Network Biology (NRNB),Developing open source software to enable network-based biomedical discovery,"java,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5428149655437312/
-109,Neovim,Vim-fork focused on extensibility and usability,"lua,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5474817897660416/
-110,Netfilter project,netfilter.org is the home of the Linux firewalling tools,"linux kernel,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/6483451842658304/
-111,NumFOCUS,Open Code = Better Science,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6485922656813056/
-112,omegaUp.com,omegaUp is aimed to increase the number of talented Software Engineers in LatAm.,"php,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/6067192269373440/
-113,Open Bioinformatics Foundation,Promoting practice & philosophy of OSS & Open Science in biological research.,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5813329234755584/
-114,Open Chemistry,Advancing Open Source and Open Science for Chemistry,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/4981977648201728/
-115,Open Data Kit,Open Data Kit is used to collect data for social good in difficult environments.,"android,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/6544367028273152/
-116,Open Food Facts,"A collaborative, free and open database of food and cosmetic products.","perl,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5395828684357632/
-117,Open Roberta Lab,Open Roberta® Lab is an online IDE introducing kids to program robots with NEPO®,"java,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/5792235979276288/
-118,Open Source Robotics Foundation,Our mission is to support the development of OSS for use in robotics,"c/c++,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5991416564023296/
-119,Open States,Open Source State Legislative Data,"python,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/4806851430449152/
-120,OpenAstronomy,Opening the eyes of research astronomy software to the whole world.,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6600717804503040/
-121,OpenCensus,Planet Scale Tracing and Monitoring,"python,  Cloud",https://summerofcode.withgoogle.com/archive/2018/organizations/5351751314046976/
-122,OpenMRS,Write code. Save lives.,"java,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/4753034282270720/
-123,OpenSIPS,"A multi-purpose Open Source SIP proxy/server for carriers, telecoms or ITSPs","c,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/4660316541550592/
-124,OpenStreetMap,Creating and distributing free geographic data for the world.,"postgis,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/5878934189113344/
-125,openSUSE,"The makers' choice for sysadmins, developers and desktop users.","ruby on rail,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/5250379281334272/
-126,OpenWISP,Open Source solution to build and manage wifi networks,"python,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/4717005412237312/
-127,OpnTec,Developing Open Event Solutions for Everyone,"python,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/5214740582236160/
-128,Oppia Foundation,"Adaptive, enjoyable learning experiences that provide personalized feedback.","angularjs,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/4714779679653888/
-129,OSGeo,The Open Source Geospatial Foundation,"c/c++,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/4890968767594496/
-130,OW2,The open source community for infrastructure software.,"java,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/6376279188176896/
-131,OWASP Foundation,"OWASP, The Open Web Application Security Project.","java,  Security",https://summerofcode.withgoogle.com/archive/2018/organizations/6340640489078784/
-132,P2PSP.org,Shaping the future Internet TV,"python,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/4692141242580992/
-133,PEcAn Project,Develop accessible tools for reproducible ecosystem modeling and forecasting,"javascript,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5315984235692032/
-134,Performance Co-Pilot,Performance Co-Pilot - system-level performance analysis toolkit,"python,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/4726475278254080/
-135,phpBB Forum Software,phpBB is the most widely used free and open-source forum solution.,"mysql,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/5208530327961600/
-136,phpMyAdmin,A web interface for MySQL written in PHP,"php,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/5779764400881664/
-137,Plone,The premier python-based open source CMS,"python,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/5782644243562496/
-138,PMD,An extensible cross-language static code analyzer.,"java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5852375185096704/
-139,Pocket Science Lab,Miniaturizing the Open Science Lab with Open Hardware and Open Source Software,"android,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6441884142534656/
-140,Polly Labs,Promoting Polyhedral Compilation,"c/c++,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/4933265605525504/
-141,PostgreSQL,"PostgreSQL is a powerful, open source object-relational database system.","postgresql,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/5341499428438016/
-142,Probot,Automate and improve GitHub workflows,"javascript,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5818041149423616/
-143,Public Lab,Open hardware and software to help communities measure and analyze pollution,"ruby on rails,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/4963682832351232/
-144,Purr Data,Visual Programming Language for Realtime Multimedia,"javascript,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5216814447460352/
-145,Python HYDRA,Build better Web APIs. Enable smart clients.,"python,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/5331740188999680/
-146,Python Software Foundation,Python is a programming language used by software developers and scientists.,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6342714354302976/
-147,QEMU,QEMU is an open source machine emulator and virtualizer,"c,  Cloud",https://summerofcode.withgoogle.com/archive/2018/organizations/4650540726222848/
-148,Quill.org,Helping millions of learners become better writers and critical thinkers,"ruby,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/4724462213660672/
-149,R project for statistical computing,R is a free software environment for statistical computing and graphics,"r-project,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6343413561556992/
-150,radare,Radare2 reverse engineering framework and toolset,"c,  Security",https://summerofcode.withgoogle.com/archive/2018/organizations/5393348407853056/
-151,ReactOS,"ReactOS is a free, open source, Windows compatible operating system.","c,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/6454703546171392/
-152,Read the Docs,Read the Docs hosts documentation for the open source community.,"python,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5430613960032256/
-153,Red Hen Lab,Research on Multimodal Communication,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6069086618386432/
-154,RoboComp,RoboComp is an open-source framework to develop and manage robot components.,"c/c++,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5504242315952128/
-155,Rocket.Chat,The ultimate free open source solution for team communications,"javascript,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/5641906755207168/
-156,Rspamd,An advanced spam filtering system,"c,  Security",https://summerofcode.withgoogle.com/archive/2018/organizations/5729327995944960/
-157,RTEMS Project,RTEMS is a real-time operating system kernel used around the world and in space.,"c,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/5646874153320448/
-158,Ruby,"The Ruby programming language, libraries, and tools","ruby,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5758920052178944/
-159,Ruby on Rails,Ruby on Rails is web framework that optimizes for programmer happinness.,"ruby,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/5717023518621696/
-160,Ruby Science Foundation,Scientific Computing tools for Ruby,"ruby,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5688290254520320/
-161,Sage Mathematical Software System,"Creating a viable free alternative to Magma, Maple, Mathematica and Matlab.","python 3,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5677303661068288/
-162,Scala,The programming language where object-oriented meets functional.,"scala,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5122715136557056/
-163,Scilab,Cross-platform numerical computational package and programming language.,"c,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/4786317862895616/
-164,ScummVM,ScummVM is a GSoC umbrella for game preservation projects,"c++,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/5712088936742912/
-165,Seastar,Framework for writing high-performance server applications on modern hardware,"cpp,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5132636779446272/
-166,Software and Computational Systems Lab at LMU Munich,"Software Analysis, Software Verification, and Benchmarking","java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5139217877303296/
-167,Space @ Virginia Tech,Space@VT is devoted to the investigation of the space environment.,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5667370274127872/
-168,SPDX,Promoting open source compliance through standard communication of SW licenses.,"rdf,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5081879929683968/
-169,Stemformatics,Stemformatics is a web-based pocket dictionary for stem cell scientists.,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6199903000723456/
-170,STE||AR Group,HPX: The C++ Standard Library for Parallelism and Concurrency,"c++,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6248264466694144/
-171,Stony Brook University Biomedical Informatics,Advance biomedical knowledge through innovative data science research,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/6275038890164224/
-172,strace,linux syscall tracer,"linux,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/6045186870214656/
-173,Streetmix,"Design, remix, and share your neighborhood street, all in your browser.","javascript,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/5918428024012800/
-174,Submitty,Programming assignment submission with automated grading and manual TA grading,"python,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5076076959105024/
-175,Sugar Labs,"We make tools that learners use to explore, discover, create, and reflect.","python,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5753952654065664/
-176,Sustainable Computing Research Group (SCoRe),"SCoRe has conducted research covering various aspects of Security, Mobile & IOT.","android,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/5745237494333440/
-177,Swift,Swift is a high-performance system programming language.,"c++,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5146674678726656/
-178,SymPy,SymPy is a Python library for symbolic mathematics.,"python,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5672591746400256/
-179,Systers Community,Helping women find their potential in code. You are not alone.,"ios,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/6321870005600256/
-180,TEAMMATES @ National University of Singapore,An online feedback management system for education,"java,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/6265117784145920/
-181,The Center for Connected Learning and Computer-Based Modeling,NetLogo: A language and IDE for programming and scientific simulations,"javascript,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5109641792978944/
-182,The Eclipse Foundation,An amazing open source community of diverse technology and collaboration.,"php,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/5743257380192256/
-183,The Honeynet Project,The Honeynet Project - R&D for Honeypot/Honeynet Technology and InfoSec Research,"python 3,  Security",https://summerofcode.withgoogle.com/archive/2018/organizations/5912217769738240/
-184,The Java Pathfinder Team,JPF is a highly extensible Java virtual machine built for software verification,"java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6274587650162688/
-185,The Libreswan Project,Encrypting the Internet with IKE and IPsec,"c,  Security",https://summerofcode.withgoogle.com/archive/2018/organizations/5106919723237376/
-186,The Linux Foundation,A non-profit consortium dedicated to fostering the growth of Linux,"c,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/5146991633891328/
-187,The MacPorts Project,Open Source package manager for macOS,"tcl,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/4867664006610944/
-188,The Mifos Initiative,End Poverty One Line of Code at a Time,"java,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/5355478070591488/
-189,The NetBSD Foundation,Of course it runs NetBSD,"c,  Operating Systems",https://summerofcode.withgoogle.com/archive/2018/organizations/5928349130031104/
-190,The ns-3 Network Simulator Project,ns-3 is a packet-level network simulator for research and education.,"c/c++,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/6608136823635968/
-191,The Processing Foundation,Our goal is to empower people of all backgrounds to learn how to program.,"java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/5665833682468864/
-192,The Qt Project,The Qt Project co-ordinates the development of the Qt software framework.,"c++11,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6475167723159552/
-193,The syslog-ng project.,Open source log management solution with over a million users worldwide.,"java,  Security",https://summerofcode.withgoogle.com/archive/2018/organizations/5651276360581120/
-194,The Vega Visualization Tools by the UW Interactive Data Lab,"Declarative formats & Applications for Creating, Saving & Sharing Visualizations","javascript,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/4645580374540288/
-195,The Wine Project,"Wine runs Windows applications on Linux, BSD, Solaris, macOS and Android.","directx,  Other",https://summerofcode.withgoogle.com/archive/2018/organizations/6258536686288896/
-196,TimVideos.us,"Software+hardware for recording & streaming conferences, meetings, user groups.","fpga,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5082529006616576/
-197,TLA+,"TLA+ is a formal specification language used to design, model and verify systems","java,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/6308187447754752/
-198,UCSC Xena,Helping biologists see the bigger picture in diverse cancer genomics data,"javascript,  Science and Medicine",https://summerofcode.withgoogle.com/archive/2018/organizations/5088326407159808/
-199,VideoLAN,Open Source Multimedia everywhere,"c,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/4795301189648384/
-200,ViSP,Visual tracking and visual servoing library,"c/c++,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5088548537499648/
-201,vitrivr,vitrivr - the open-source multimedia search engine,"java,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/4801054029905920/
-202,webpack,webpack is THE build tool for modern web applications run on NodeJS,"javascript,  Programming Languages and Development Tools",https://summerofcode.withgoogle.com/archive/2018/organizations/4872598588489728/
-203,Wikimedia Foundation,Global movement whose mission is to bring free educational content to the world,"php,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/6035427630776320/
-204,WorldBrain.io - Verifying the Internet,Bookmarking extension that works like your brain - full-text search everything.,"react,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/4651790628814848/
-205,X.org Foundation,"X Window System and related projects (Mesa, DRI, Wayland, etc.)","opengl,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/4893771770626048/
-206,Xapian Search Engine Library,"Fast, scalable and flexible search","c++,  Data and Databases",https://summerofcode.withgoogle.com/archive/2018/organizations/5404190113267712/
-207,XBMC Foundation,The ultimate entertainment center,"python,  Graphics / Video / Audio / Virtual Reality",https://summerofcode.withgoogle.com/archive/2018/organizations/5991099608858624/
-208,Xi Editor Project,A modern text editor with a backend written in Rust.,"rust,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/6530090020110336/
-209,xpra.org,"Screen for X11, remote desktop platform.","python,  End User Applications",https://summerofcode.withgoogle.com/archive/2018/organizations/5969765231230976/
-210,XWiki,The Advanced Open Source Enterprise Wiki,"java,  Web",https://summerofcode.withgoogle.com/archive/2018/organizations/6278111670829056/
-211,Zulip,"Powerful, modern, open source team chat, complete with apps for every platform.","python,  Social / Communications",https://summerofcode.withgoogle.com/archive/2018/organizations/4721112676040704/
+5,AOSSIE - Australian Open Source Software Innovation and Education,Australian Umbrella Org for Open-Source Projects,"scala,  isabelle proof assistant,  browser extension,  javascript/html5/css3,  android/ios",https://summerofcode.withgoogle.com/archive/2018/organizations/6209824106741760/
+6,Apache Software Foundation,Providing open source software to the public free of charge,"c,  java,  erlang",https://summerofcode.withgoogle.com/archive/2018/organizations/5175246747336704/
+7,Apertium,A free/open-source platform for machine translation and language technology,"c++,  python,  xml,  fsts",https://summerofcode.withgoogle.com/archive/2018/organizations/5754587369701376/
+8,Apertus Association,Open Technology for Professional Film Production,"fpga,  embedded,  linux,  c/c++,  vhdl",https://summerofcode.withgoogle.com/archive/2018/organizations/5706275094528000/
+9,appleseedhq,A modern open source rendering engine for animation and visual effects,"c/c++,  qt",https://summerofcode.withgoogle.com/archive/2018/organizations/5125340301099008/
+10,ArduPilot,The worlds most advanced open source autopilot,"drones,  python,  linux,  c/c++,  robotics",https://summerofcode.withgoogle.com/archive/2018/organizations/5149138983321600/
+11,BeagleBoard.org Foundation,Open hardware and software for physical computing,"linux,  gcc,  real-time,  physical computing,  iot",https://summerofcode.withgoogle.com/archive/2018/organizations/5713309579870208/
+12,Beam Community,"From distributed systems, to robust servers and language design on the Erlang VM","erlang,  xmpp",https://summerofcode.withgoogle.com/archive/2018/organizations/5082029850886144/
+13,BeeWare Project,Tools for cross-platform Python application development.,"python,  ios,  android,  javascript,  java",https://summerofcode.withgoogle.com/archive/2018/organizations/5679790782676992/
+14,Berkman Klein Center for Internet & Society at Harvard University,"Exploring cyberspace, sharing in its study, and helping pioneer its development.","ruby on rails,  meteor.js,  elasticsearch,  javascript,  elk",https://summerofcode.withgoogle.com/archive/2018/organizations/5751016104394752/
+15,Blender Foundation,We build a free and open source 3D creation suite.,"c,  c++,  python,  opengl,  opencl",https://summerofcode.withgoogle.com/archive/2018/organizations/6251240207941632/
+16,Boost C++ Libraries,Boost provides free peer-reviewed portable C++ source libraries,"c++11,  c++14,  c++,  c++17",https://summerofcode.withgoogle.com/archive/2018/organizations/5136992144719872/
+17,Boston University / XIA,Crowdsourcing the future Internet,"xia,  linux kernel,  c,  advanced data structures,  ddos",https://summerofcode.withgoogle.com/archive/2018/organizations/5193342920949760/
+18,BRL-CAD,"Solid modeling, 3D printing, comp. graphics, & other computer-aided tech (CAx)!","c/c++,  qt,  opengl,  opencl,  tcl/tk",https://summerofcode.withgoogle.com/archive/2018/organizations/5078956801785856/
+19,Canadian Centre for Computational Genomics,Analytical solutions for Next-Generation Sequencing data,"r,  perl,  awk,  bash,  python",https://summerofcode.withgoogle.com/archive/2018/organizations/5194176413040640/
+20,Catrobat,Computational Thinking for all through visual programming on phones,"java,  android,  ios,  espresso",https://summerofcode.withgoogle.com/archive/2018/organizations/6262892051562496/
+21,CCExtractor Development,"Experimenting with video software and hardware, subtitles, imaging, cloud...","c,  python,  arduino,  node.js,  c#",https://summerofcode.withgoogle.com/archive/2018/organizations/5152211763986432/
+22,Center for Research In Open Source Software (CROSS) at UC Santa Cruz,Bridging the Gap Between Student Work and Open Source Software Projects,"ceph,  hadoop,  c++,  javascript,  python",https://summerofcode.withgoogle.com/archive/2018/organizations/6272574585569280/
+23,CERN-HSF,Umbrella organization for Particle (High-energy) Physics-related projects,"c/c++,  python,  data analysis,  machine learning,  parallelization",https://summerofcode.withgoogle.com/archive/2018/organizations/4841240159846400/
+24,CGAL Project,C++ library of computational geometry and geometry processing,"c++,  github,  git",https://summerofcode.withgoogle.com/archive/2018/organizations/5076776166359040/
+25,CHAOSS: Community Health Analytics Open Source Software,Advacing open source project health and sustainability,"python 3,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/5116840829255680/
+26,Checker Framework,"Preventing programming errors before they happen, via easy-to-use verification",java,https://summerofcode.withgoogle.com/archive/2018/organizations/6235541699821568/
+27,CiviCRM LLC,"Build, engage and organize your constituents","php,  mysql,  angularjs,  d3.js",https://summerofcode.withgoogle.com/archive/2018/organizations/4828166816268288/
+28,Classical Language Toolkit,NLP for the Ancient World,"python,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/5114353707646976/
+29,"CLiPS, University of Antwerp",Computational (Psycho)Linguistics,"python,  javascript,  mongodb",https://summerofcode.withgoogle.com/archive/2018/organizations/6272891540733952/
+30,Cloud Native Computing Foundation (CNCF),Sustaining open source cloud native projects like Kubernetes and Prometheus,"kubernetes,  prometheus,  grpc,  docker,  golang",https://summerofcode.withgoogle.com/archive/2018/organizations/4800404952973312/
+31,CloudCV,Building platforms for reproducible AI research,"machine learning,  deep learning,  computer vision,  artificial intelligence,  cloud",https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/
+32,coala,Linting and Fixing Code for All Languages,"django,  python 3,  antlr,  emberjs,  reactjs",https://summerofcode.withgoogle.com/archive/2018/organizations/4906591174262784/
+33,Computational Biology @ University of Nebraska-Lincoln,"Further knowledge in health through computation, data visualization and analysis","javascript,  webgl,  reactjs,  flask",https://summerofcode.withgoogle.com/archive/2018/organizations/6010802972655616/
+34,Conversations.im,An open source instant messaging client and ecosystem based on Jabber & XMPP,"java,  android,  xmpp,  gtk,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/6032491081105408/
+35,Cuneiform Digital Library Initiative,International digital library of artifacts inscribed with cuneiform writing,"python,  mariadb,  rdf,  php,  nltk",https://summerofcode.withgoogle.com/archive/2018/organizations/4794601982394368/
+36,DBpedia,"An Open Platform for a Large, Multilingual, Semantic Knowledge Graph","rdf,  scala,  sparql",https://summerofcode.withgoogle.com/archive/2018/organizations/6317537323122688/
+37,Debian Project,the universal operating system,"javascript,  ruby,  java,  python,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/6481377977434112/
+38,Developers Italia,An open community digital public services developers,"python,  ruby,  node.js,  java,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/6208428913459200/
+39,Digital Impact Alliance,Supporting open source projects for a digital society that serves everyone.,"android,  java,  php,  python,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/6491299083452416/
+40,Django Software Foundation,The web framework for perfectionists with deadlines.,"python,  django",https://summerofcode.withgoogle.com/archive/2018/organizations/5080222944722944/
+41,Drupal,"Drupal is a Free, Open, Modular CMS written in PHP. Let's make something amazing","web,  web development,  content management system,  cms,  object-oriented",https://summerofcode.withgoogle.com/archive/2018/organizations/5920501889236992/
+42,Earth Science Information Partners (ESIP),Making Earth science data matter.,"kubernetes,  dask,  xarray,  python,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/4862665201549312/
+43,Elastic,"We are the creators of Elasticsearch, Kibana, Beats, and Logstash.","java,  golang,  node.js,  react,  jruby",https://summerofcode.withgoogle.com/archive/2018/organizations/5469541127684096/
+44,Eta,Eta is a dialect of Haskell on the Java Virtual Machine.,"haskell,  jvm,  java",https://summerofcode.withgoogle.com/archive/2018/organizations/4825444746526720/
+45,Fedora Project,"Fedora Linux is built on the foundations of Freedom, Friends, Features, & First","linux,  python,  git,  postgresql,  ansible",https://summerofcode.withgoogle.com/archive/2018/organizations/5363354906394624/
+46,FFmpeg,"A complete, cross-platform solution to record, convert & stream audio and video.","c,  asm,  git",https://summerofcode.withgoogle.com/archive/2018/organizations/5447853019234304/
+47,FOSSASIA,Improve People's Lives,"java,  javascript,  python,  android,  artificial intelligence",https://summerofcode.withgoogle.com/archive/2018/organizations/6489254813237248/
+48,FOSSology,Open Source License Compliance by Open Source Software,"php,  postgresql,  lamp,  linux,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5988565108391936/
+49,Free and Open Source Silicon Foundation,"The home for open source hardware, EDA tools and the related ecosystem","fpga,  verilog,  c,  chisel,  synthesis",https://summerofcode.withgoogle.com/archive/2018/organizations/6276259533291520/
+50,Free UK Genealogy,Human transcription of family history data,"mongodb,  ruby on rails,  mysql,  python,  css/html",https://summerofcode.withgoogle.com/archive/2018/organizations/6511795204259840/
+51,FreeBSD,FreeBSD: The Foundation of the Internet,"c/c++,  llvm,  shell script,  assembly,  make",https://summerofcode.withgoogle.com/archive/2018/organizations/4807073560788992/
+52,FreeType,A software library to render fonts.,"c,  gnu make,  gnu autotools,  python,  fonts",https://summerofcode.withgoogle.com/archive/2018/organizations/6550700024659968/
+53,freifunk,Freifunk is a non-commercial initiative for free and open wireless networks.,"openwrt,  javascript,  html,  c,  python",https://summerofcode.withgoogle.com/archive/2018/organizations/5072753191288832/
+54,"Genes, Genomes and Variation",Genomic sequence and annotation databases and browsers,"perl,  mysql,  java script",https://summerofcode.withgoogle.com/archive/2018/organizations/5477445075468288/
+55,GENIVI Alliance,Developing open software for IVI and the connected car.,"yocto,  c/c++,  java",https://summerofcode.withgoogle.com/archive/2018/organizations/5111873431142400/
+56,Gentoo Foundation,"A flexible, source-based Linux distribution.","shell script,  bash,  c/c++,  python,  linux",https://summerofcode.withgoogle.com/archive/2018/organizations/5172443744305152/
+57,GFOSS - Open Technologies Alliance,Promote Openness with the use and development of Open Standards & Open Source.,"python 3,  php/javascript/html,  css/html,  java,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5472477677355008/
+58,Git,"Fast, scalable, distributed revision control system","c,  shell script,  git",https://summerofcode.withgoogle.com/archive/2018/organizations/4840889583140864/
+59,Global Alliance for Genomics and Health,We develop open standards and tools for genomics to benefit human health.,"java,  python,  cloud,  c/c++,  mongodb",https://summerofcode.withgoogle.com/archive/2018/organizations/4659817385820160/
+60,GNOME,A free desktop environment for GNU/Linux.,"c,  python,  javascript,  gtk+,  gobject",https://summerofcode.withgoogle.com/archive/2018/organizations/5224661688254464/
+61,GNSS-SDR,An open source Global Navigation Satellite Systems software-defined receiver,"c/c++,  gnss,  c++11,  c++14",https://summerofcode.withgoogle.com/archive/2018/organizations/5951344653369344/
+62,GNU Compiler Collection (GCC),GCC,"c++,  c,  openmp",https://summerofcode.withgoogle.com/archive/2018/organizations/6598377584197632/
+63,GNU Octave,Free Your Numbers,"c++,  hg",https://summerofcode.withgoogle.com/archive/2018/organizations/6026712471044096/
+64,GNU Project,GNU is an operating system that is free software,"c,  lisp,  python",https://summerofcode.withgoogle.com/archive/2018/organizations/6595441034526720/
+65,GNU Radio,The free & open software radio ecosystem,"c++,  python,  simd,  qt",https://summerofcode.withgoogle.com/archive/2018/organizations/5370023514210304/
+66,Godot Engine,Godot is a multi-platform 2D and 3D game engine with a feature-rich editor,"c++,  cpp,  opengl,  github,  crossplatform",https://summerofcode.withgoogle.com/archive/2018/organizations/5406815277809664/
+67,gRPC,"A high performance, open-source universal RPC framework","grpc,  microservices,  distributed systems,  cloud",https://summerofcode.withgoogle.com/archive/2018/organizations/4768790235578368/
+68,Haiku,Integrated operating system for personal computers,"c++,  webkit,  ffmpeg,  posix,  bsd unix",https://summerofcode.withgoogle.com/archive/2018/organizations/5826402578333696/
+69,Haskell.org,"Standardized, statically typed, lazy functional programming language",haskell,https://summerofcode.withgoogle.com/archive/2018/organizations/5391116769689600/
+70,Homebrew,"An open source, console package manager for macOS","ruby,  git,  macos,  rspec,  bash",https://summerofcode.withgoogle.com/archive/2018/organizations/4830398454431744/
+71,INCF,Advancing global collaborative brain research,"python,  c/c++,  javascript,  cuda,  xml",https://summerofcode.withgoogle.com/archive/2018/organizations/6206122851565568/
+72,Inclusive Design Institute,The IDI addresses the challenge of designing ICT to work for all potential users,"javascript,  html,  css,  node.js,  php",https://summerofcode.withgoogle.com/archive/2018/organizations/6198653098131456/
+73,Inkscape,"Inkscape is a professional vector graphics editor for Windows, Mac OSX, & Linux.","svg,  css,  c++11,  python,  gtk+",https://summerofcode.withgoogle.com/archive/2018/organizations/6036062346412032/
+74,Inria Foundation,SOFA is an efficient simulation engine for research in medical simulation.,"c/c++,  qt,  webassembly,  asm,  communication protocol",https://summerofcode.withgoogle.com/archive/2018/organizations/6603344982310912/
+75,Institute for Artificial Intelligence,Research in Artificial Intelligence for Autonomous Mobile Robots,"c++,  python,  ros,  unreal engine,  lisp",https://summerofcode.withgoogle.com/archive/2018/organizations/4682207855640576/
+76,Intel Media And Audio For Linux,"Open Source Media libraries, Applications,  User space driver and Specification.","video,  codecs,  hardware acceleration,  va-api,  c",https://summerofcode.withgoogle.com/archive/2018/organizations/4797072796549120/
+77,InterMine,"Integrating biological data sources, making it easy to query and analyse data","postgresql,  java,  javascript,  python,  clojure",https://summerofcode.withgoogle.com/archive/2018/organizations/5222767339241472/
+78,Internet Archive,Universal Access to All Knowledge,"pthon,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/6298343651147776/
+79,Internet Systems Consortium,We support critical internet infrastructure with quality open source,"dhcp,  c/c++,  mysql,  cassandra,  rest",https://summerofcode.withgoogle.com/archive/2018/organizations/4744165577457664/
+80,JBoss Community,Community of Java projects around JBoss Middleware,"java,  android,  ios,  opentracing,  apache kafka",https://summerofcode.withgoogle.com/archive/2018/organizations/5357551935815680/
+81,JdeRobot - Universidad Rey Juan Carlos,A software framework for developing applications in robotics and computer vision,"ros,  python,  c++,  gazebo,  opencv",https://summerofcode.withgoogle.com/archive/2018/organizations/4773757633691648/
+82,Jenkins project,Jenkins is an open-source automation server,"java,  groovy,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/5245157809061888/
+83,JGraphT,Java library that provides graph data-structures and algorithms.,java,https://summerofcode.withgoogle.com/archive/2018/organizations/5956298361274368/
+84,Jitsi,The most innovative Open Source video conferencing community. Period.,"java,  javascript,  webrtc,  react,  react native",https://summerofcode.withgoogle.com/archive/2018/organizations/6348667246084096/
+85,Joomla!,"Joomla, the flexible platform empowering website creators.","php,  javascript,  mysql,  html5/css3,  cms",https://summerofcode.withgoogle.com/archive/2018/organizations/6484151049912320/
+86,JSK Robotics Laboratory / The University of Tokyo,JSK is focusing on the fundamental functions & systems for intelligent robots .,ros,https://summerofcode.withgoogle.com/archive/2018/organizations/5947308659179520/
+87,KDE Community,Experience Freedom!,"qt,  c/c++,  qml",https://summerofcode.withgoogle.com/archive/2018/organizations/6517016676532224/
+88,Kiwix,Internet content for people without internet access,"android,  java,  c++,  python,  qt",https://summerofcode.withgoogle.com/archive/2018/organizations/4687429327912960/
+89,LabLua,Programming Languages Research with emphasis on the Lua language,"lua,  céu",https://summerofcode.withgoogle.com/archive/2018/organizations/6371057715904512/
+90,languagetool.org,Style and grammar checker,"java,  javascript,  machine learning,  ai,  tensorflow",https://summerofcode.withgoogle.com/archive/2018/organizations/4898832450060288/
+91,LEAP Encryption Access Project,We make encryption easy to use.,"python,  twisted,  javascript,  openvpn,  gnupg",https://summerofcode.withgoogle.com/archive/2018/organizations/6409962536304640/
+92,LibreHealth,Healthcare for Humanity,"java,  php,  javascript,  mysql,  webcomponents",https://summerofcode.withgoogle.com/archive/2018/organizations/5403839536562176/
+93,LibreOffice,LibreOffice is the leading free and open source office suite.,"c++,  java,  python",https://summerofcode.withgoogle.com/archive/2018/organizations/6489903890169856/
+94,libvirt,Toolkit to manage virtualization hosts from many languages,"hypervisor,  kvm,  xen,  lxc",https://summerofcode.withgoogle.com/archive/2018/organizations/6037767851081728/
+95,LLVM Compiler Infrastructure,LLVM Compiler Infrastructure,llvm,https://summerofcode.withgoogle.com/archive/2018/organizations/5263452624912384/
+96,LuaRocks,The package manager for the Lua programming language,"lua,  linux,  windows,  unix,  c",https://summerofcode.withgoogle.com/archive/2018/organizations/4765853685907456/
+97,MariaDB Foundation,One of the most popular databases on the web with many notable users,"mariadb,  mysql,  c,  c++,  java",https://summerofcode.withgoogle.com/archive/2018/organizations/5785567371460608/
+98,Matrix.org,"An ambitious open ecosystem for decentralised, encrypted communication.","golang,  ios,  android,  python,  react",https://summerofcode.withgoogle.com/archive/2018/organizations/6529739443404800/
+99,MetaBrainz Foundation Inc.,Curating open data sets with open source softer and loads of volunteers.,"python,  perl,  javascript,  postgresql,  react",https://summerofcode.withgoogle.com/archive/2018/organizations/5222617418039296/
+100,Metasploit,The world’s most used penetration testing framework,"ruby,  postgresql,  python,  c,  assembly",https://summerofcode.withgoogle.com/archive/2018/organizations/5923381731917824/
+101,Mixxx DJ Software,"DJ Your Way, For Free. Join our friendly community of hackers, DJs, and artists!","qt,  audio,  music,  real-time,  c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5431834603159552/
+102,mlpack,a scalable C++ machine learning library,c++,https://summerofcode.withgoogle.com/archive/2018/organizations/4895891068551168/
+103,Mobile Robot Programming Toolkit (MRPT),Empowering C++ development in robotics,"c/c++,  cmake,  python,  webs",https://summerofcode.withgoogle.com/archive/2018/organizations/6557734510002176/
+104,Moodle,Empowering educators to improve our world,"php,  javascript,  ionic,  sql,  angular",https://summerofcode.withgoogle.com/archive/2018/organizations/5904449381859328/
+105,MovingBlocks,Terasology: like an open source Minecraft - imagine the possibilities!,"java,  opengl,  json,  blender,  github",https://summerofcode.withgoogle.com/archive/2018/organizations/4941292362530816/
+106,Mozilla,"Internet for people, not profit.","javascript,  c++,  rust,  python,  css",https://summerofcode.withgoogle.com/archive/2018/organizations/6589662424465408/
+107,MuseScore,"Create, play and print beautiful sheet music","qt,  c++11,  cpp,  midi",https://summerofcode.withgoogle.com/archive/2018/organizations/4728147161382912/
+108,National Resource for Network Biology (NRNB),Developing open source software to enable network-based biomedical discovery,"java,  javascript,  python,  html,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5428149655437312/
+109,Neovim,Vim-fork focused on extensibility and usability,"lua,  c,  vim,  javascript,  python",https://summerofcode.withgoogle.com/archive/2018/organizations/5474817897660416/
+110,Netfilter project,netfilter.org is the home of the Linux firewalling tools,"linux kernel,  c",https://summerofcode.withgoogle.com/archive/2018/organizations/6483451842658304/
+111,NumFOCUS,Open Code = Better Science,"python,  julia,  r,  javascript,  c++",https://summerofcode.withgoogle.com/archive/2018/organizations/6485922656813056/
+112,omegaUp.com,omegaUp is aimed to increase the number of talented Software Engineers in LatAm.,"php,  mysql,  python",https://summerofcode.withgoogle.com/archive/2018/organizations/6067192269373440/
+113,Open Bioinformatics Foundation,Promoting practice & philosophy of OSS & Open Science in biological research.,"python,  javascript,  d,  php,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5813329234755584/
+114,Open Chemistry,Advancing Open Source and Open Science for Chemistry,"python,  c++,  javascript,  java,  opengl",https://summerofcode.withgoogle.com/archive/2018/organizations/4981977648201728/
+115,Open Data Kit,Open Data Kit is used to collect data for social good in difficult environments.,"android,  java",https://summerofcode.withgoogle.com/archive/2018/organizations/6544367028273152/
+116,Open Food Facts,"A collaborative, free and open database of food and cosmetic products.","perl,  mongodb,  ios,  android,  machine learning",https://summerofcode.withgoogle.com/archive/2018/organizations/5395828684357632/
+117,Open Roberta Lab,Open Roberta® Lab is an online IDE introducing kids to program robots with NEPO®,"java,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/5792235979276288/
+118,Open Source Robotics Foundation,Our mission is to support the development of OSS for use in robotics,"c/c++,  python,  javascript,  ros,  gazebo",https://summerofcode.withgoogle.com/archive/2018/organizations/5991416564023296/
+119,Open States,Open Source State Legislative Data,"python,  django,  react,  graphql,  postgresql",https://summerofcode.withgoogle.com/archive/2018/organizations/4806851430449152/
+120,OpenAstronomy,Opening the eyes of research astronomy software to the whole world.,"python,  julia,  c++,  numba",https://summerofcode.withgoogle.com/archive/2018/organizations/6600717804503040/
+121,OpenCensus,Planet Scale Tracing and Monitoring,"python,  java,  ruby,  node,  go",https://summerofcode.withgoogle.com/archive/2018/organizations/5351751314046976/
+122,OpenMRS,Write code. Save lives.,"java,  spring,  javascript,  rest,  mysql",https://summerofcode.withgoogle.com/archive/2018/organizations/4753034282270720/
+123,OpenSIPS,"A multi-purpose Open Source SIP proxy/server for carriers, telecoms or ITSPs","c,  python,  mysql,  scripting",https://summerofcode.withgoogle.com/archive/2018/organizations/4660316541550592/
+124,OpenStreetMap,Creating and distributing free geographic data for the world.,"postgis,  java,  ruby,  javascript,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5878934189113344/
+125,openSUSE,"The makers' choice for sysadmins, developers and desktop users.","ruby on rail,  perl,  ruby,  html/javascript,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5250379281334272/
+126,OpenWISP,Open Source solution to build and manage wifi networks,"python,  django,  javascript,  openwrt,  linux",https://summerofcode.withgoogle.com/archive/2018/organizations/4717005412237312/
+127,OpnTec,Developing Open Event Solutions for Everyone,"python,  javascript,  emberjs,  cloud,  android",https://summerofcode.withgoogle.com/archive/2018/organizations/5214740582236160/
+128,Oppia Foundation,"Adaptive, enjoyable learning experiences that provide personalized feedback.","angularjs,  python,  javascript,  appengine,  css",https://summerofcode.withgoogle.com/archive/2018/organizations/4714779679653888/
+129,OSGeo,The Open Source Geospatial Foundation,"c/c++,  standards,  python,  sql,  database",https://summerofcode.withgoogle.com/archive/2018/organizations/4890968767594496/
+130,OW2,The open source community for infrastructure software.,"java,  perl,  middleware,  bpm,  wiki",https://summerofcode.withgoogle.com/archive/2018/organizations/6376279188176896/
+131,OWASP Foundation,"OWASP, The Open Web Application Security Project.","java,  net,  ruby,  javascript,  python",https://summerofcode.withgoogle.com/archive/2018/organizations/6340640489078784/
+132,P2PSP.org,Shaping the future Internet TV,"python,  javascript,  webrtc,  sockets,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/4692141242580992/
+133,PEcAn Project,Develop accessible tools for reproducible ecosystem modeling and forecasting,"javascript,  postgresql,  php,  c,  r",https://summerofcode.withgoogle.com/archive/2018/organizations/5315984235692032/
+134,Performance Co-Pilot,Performance Co-Pilot - system-level performance analysis toolkit,"python,  redis,  c,  linux,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/4726475278254080/
+135,phpBB Forum Software,phpBB is the most widely used free and open-source forum solution.,"mysql,  javascript,  html5/css3,  php,  symfony",https://summerofcode.withgoogle.com/archive/2018/organizations/5208530327961600/
+136,phpMyAdmin,A web interface for MySQL written in PHP,"php,  mysql,  cakephp,  jquery,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/5779764400881664/
+137,Plone,The premier python-based open source CMS,"python,  javascript,  html,  css,  reactjs",https://summerofcode.withgoogle.com/archive/2018/organizations/5782644243562496/
+138,PMD,An extensible cross-language static code analyzer.,"java,  xml,  javacc,  antlr,  xpath",https://summerofcode.withgoogle.com/archive/2018/organizations/5852375185096704/
+139,Pocket Science Lab,Miniaturizing the Open Science Lab with Open Hardware and Open Source Software,"android,  java,  firmware,  c,  cad",https://summerofcode.withgoogle.com/archive/2018/organizations/6441884142534656/
+140,Polly Labs,Promoting Polyhedral Compilation,"c/c++,  llvm,  polly,  isl,  ppcg",https://summerofcode.withgoogle.com/archive/2018/organizations/4933265605525504/
+141,PostgreSQL,"PostgreSQL is a powerful, open source object-relational database system.","postgresql,  sql,  rdbms,  ordbms,  c",https://summerofcode.withgoogle.com/archive/2018/organizations/5341499428438016/
+142,Probot,Automate and improve GitHub workflows,"javascript,  node,  github",https://summerofcode.withgoogle.com/archive/2018/organizations/5818041149423616/
+143,Public Lab,Open hardware and software to help communities measure and analyze pollution,"ruby on rails,  javascript,  node.js",https://summerofcode.withgoogle.com/archive/2018/organizations/4963682832351232/
+144,Purr Data,Visual Programming Language for Realtime Multimedia,"javascript,  html5/css3,  node.js,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5216814447460352/
+145,Python HYDRA,Build better Web APIs. Enable smart clients.,"python,  rdf,  flask,  hydra,  json/json-ld",https://summerofcode.withgoogle.com/archive/2018/organizations/5331740188999680/
+146,Python Software Foundation,Python is a programming language used by software developers and scientists.,python,https://summerofcode.withgoogle.com/archive/2018/organizations/6342714354302976/
+147,QEMU,QEMU is an open source machine emulator and virtualizer,"c,  kvm",https://summerofcode.withgoogle.com/archive/2018/organizations/4650540726222848/
+148,Quill.org,Helping millions of learners become better writers and critical thinkers,"ruby,  rails,  react,  javascript,  postgresql",https://summerofcode.withgoogle.com/archive/2018/organizations/4724462213660672/
+149,R project for statistical computing,R is a free software environment for statistical computing and graphics,"r-project,  c,  c++,  javascript,  fortran",https://summerofcode.withgoogle.com/archive/2018/organizations/6343413561556992/
+150,radare,Radare2 reverse engineering framework and toolset,"c,  cpp,  rust,  qt",https://summerofcode.withgoogle.com/archive/2018/organizations/5393348407853056/
+151,ReactOS,"ReactOS is a free, open source, Windows compatible operating system.","c,  c++",https://summerofcode.withgoogle.com/archive/2018/organizations/6454703546171392/
+152,Read the Docs,Read the Docs hosts documentation for the open source community.,"python,  sphinx,  django,  javascript,  elasticsearch",https://summerofcode.withgoogle.com/archive/2018/organizations/5430613960032256/
+153,Red Hen Lab,Research on Multimodal Communication,"python,  scikit-learn,  tensorflow,  singularity,  syntaxnet",https://summerofcode.withgoogle.com/archive/2018/organizations/6069086618386432/
+154,RoboComp,RoboComp is an open-source framework to develop and manage robot components.,"c/c++,  python,  cmake,  openscenegraph,  ice - zeroc",https://summerofcode.withgoogle.com/archive/2018/organizations/5504242315952128/
+155,Rocket.Chat,The ultimate free open source solution for team communications,"javascript,  ios,  android,  node,  meteor.js",https://summerofcode.withgoogle.com/archive/2018/organizations/5641906755207168/
+156,Rspamd,An advanced spam filtering system,"c,  machine learning,  javascript,  lua",https://summerofcode.withgoogle.com/archive/2018/organizations/5729327995944960/
+157,RTEMS Project,RTEMS is a real-time operating system kernel used around the world and in space.,"c,  python,  posix,  bsd unix",https://summerofcode.withgoogle.com/archive/2018/organizations/5646874153320448/
+158,Ruby,"The Ruby programming language, libraries, and tools",ruby,https://summerofcode.withgoogle.com/archive/2018/organizations/5758920052178944/
+159,Ruby on Rails,Ruby on Rails is web framework that optimizes for programmer happinness.,"ruby,  ruby on rails,  html",https://summerofcode.withgoogle.com/archive/2018/organizations/5717023518621696/
+160,Ruby Science Foundation,Scientific Computing tools for Ruby,"ruby,  c,  c++,  cuda",https://summerofcode.withgoogle.com/archive/2018/organizations/5688290254520320/
+161,Sage Mathematical Software System,"Creating a viable free alternative to Magma, Maple, Mathematica and Matlab.","python 3,  python,  cython,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5677303661068288/
+162,Scala,The programming language where object-oriented meets functional.,"scala,  jvm,  llvm",https://summerofcode.withgoogle.com/archive/2018/organizations/5122715136557056/
+163,Scilab,Cross-platform numerical computational package and programming language.,"c,  c++,  java,  scilab",https://summerofcode.withgoogle.com/archive/2018/organizations/4786317862895616/
+164,ScummVM,ScummVM is a GSoC umbrella for game preservation projects,"c++,  opengl,  sdl,  assembly",https://summerofcode.withgoogle.com/archive/2018/organizations/5712088936742912/
+165,Seastar,Framework for writing high-performance server applications on modern hardware,"cpp,  framework,  dpdk,  tcp,  linux",https://summerofcode.withgoogle.com/archive/2018/organizations/5132636779446272/
+166,Software and Computational Systems Lab at LMU Munich,"Software Analysis, Software Verification, and Benchmarking","java,  python,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/5139217877303296/
+167,Space @ Virginia Tech,Space@VT is devoted to the investigation of the space environment.,"python,  javascript,  d3,  mysql,  mongodb",https://summerofcode.withgoogle.com/archive/2018/organizations/5667370274127872/
+168,SPDX,Promoting open source compliance through standard communication of SW licenses.,"rdf,  python,  java,  json",https://summerofcode.withgoogle.com/archive/2018/organizations/5081879929683968/
+169,Stemformatics,Stemformatics is a web-based pocket dictionary for stem cell scientists.,"python,  javascript,  postgresql",https://summerofcode.withgoogle.com/archive/2018/organizations/6199903000723456/
+170,STE||AR Group,HPX: The C++ Standard Library for Parallelism and Concurrency,"c++,  cuda,  opencv,  python,  boost",https://summerofcode.withgoogle.com/archive/2018/organizations/6248264466694144/
+171,Stony Brook University Biomedical Informatics,Advance biomedical knowledge through innovative data science research,"python,  matlab,  c++,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/6275038890164224/
+172,strace,linux syscall tracer,"linux,  c,  git,  shell script,  make",https://summerofcode.withgoogle.com/archive/2018/organizations/6045186870214656/
+173,Streetmix,"Design, remix, and share your neighborhood street, all in your browser.","javascript,  react,  redux,  postgresql,  mongodb",https://summerofcode.withgoogle.com/archive/2018/organizations/5918428024012800/
+174,Submitty,Programming assignment submission with automated grading and manual TA grading,"python,  c++,  databases,  web/html/css,  php/javascript/ajax",https://summerofcode.withgoogle.com/archive/2018/organizations/5076076959105024/
+175,Sugar Labs,"We make tools that learners use to explore, discover, create, and reflect.","python,  javascript,  gtk+",https://summerofcode.withgoogle.com/archive/2018/organizations/5753952654065664/
+176,Sustainable Computing Research Group (SCoRe),"SCoRe has conducted research covering various aspects of Security, Mobile & IOT.","android,  java,  go,  node,  pyth",https://summerofcode.withgoogle.com/archive/2018/organizations/5745237494333440/
+177,Swift,Swift is a high-performance system programming language.,"c++,  llvm,  cmake,  swift",https://summerofcode.withgoogle.com/archive/2018/organizations/5146674678726656/
+178,SymPy,SymPy is a Python library for symbolic mathematics.,python,https://summerofcode.withgoogle.com/archive/2018/organizations/5672591746400256/
+179,Systers Community,Helping women find their potential in code. You are not alone.,"ios,  android,  python,  ruby on rails,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/6321870005600256/
+180,TEAMMATES @ National University of Singapore,An online feedback management system for education,"java,  appengine,  javascript",https://summerofcode.withgoogle.com/archive/2018/organizations/6265117784145920/
+181,The Center for Connected Learning and Computer-Based Modeling,NetLogo: A language and IDE for programming and scientific simulations,"javascript,  scala,  html5/css3",https://summerofcode.withgoogle.com/archive/2018/organizations/5109641792978944/
+182,The Eclipse Foundation,An amazing open source community of diverse technology and collaboration.,"php,  java,  xtext,  javascript,  c/c++",https://summerofcode.withgoogle.com/archive/2018/organizations/5743257380192256/
+183,The Honeynet Project,The Honeynet Project - R&D for Honeypot/Honeynet Technology and InfoSec Research,"python 3,  python,  golang,  c/c++,  machine learning",https://summerofcode.withgoogle.com/archive/2018/organizations/5912217769738240/
+184,The Java Pathfinder Team,JPF is a highly extensible Java virtual machine built for software verification,"java,  jvm,  android,  distributed systems",https://summerofcode.withgoogle.com/archive/2018/organizations/6274587650162688/
+185,The Libreswan Project,Encrypting the Internet with IKE and IPsec,"c,  python,  shell script,  qemu",https://summerofcode.withgoogle.com/archive/2018/organizations/5106919723237376/
+186,The Linux Foundation,A non-profit consortium dedicated to fostering the growth of Linux,"c,  c++,  cups,  ipp",https://summerofcode.withgoogle.com/archive/2018/organizations/5146991633891328/
+187,The MacPorts Project,Open Source package manager for macOS,"tcl,  html/javascript,  frontend,  vue.js,  react.js",https://summerofcode.withgoogle.com/archive/2018/organizations/4867664006610944/
+188,The Mifos Initiative,End Poverty One Line of Code at a Time,"java,  android,  spring,  angularjs,  mysql",https://summerofcode.withgoogle.com/archive/2018/organizations/5355478070591488/
+189,The NetBSD Foundation,Of course it runs NetBSD,"c,  bsd make",https://summerofcode.withgoogle.com/archive/2018/organizations/5928349130031104/
+190,The ns-3 Network Simulator Project,ns-3 is a packet-level network simulator for research and education.,"c/c++,  python",https://summerofcode.withgoogle.com/archive/2018/organizations/6608136823635968/
+191,The Processing Foundation,Our goal is to empower people of all backgrounds to learn how to program.,"java,  javascript,  python,  android,  opengl",https://summerofcode.withgoogle.com/archive/2018/organizations/5665833682468864/
+192,The Qt Project,The Qt Project co-ordinates the development of the Qt software framework.,"c++11,  cpp,  qt,  qml,  opengl",https://summerofcode.withgoogle.com/archive/2018/organizations/6475167723159552/
+193,The syslog-ng project.,Open source log management solution with over a million users worldwide.,"java,  c/c++,  big data,  elasticsearch,  rest",https://summerofcode.withgoogle.com/archive/2018/organizations/5651276360581120/
+194,The Vega Visualization Tools by the UW Interactive Data Lab,"Declarative formats & Applications for Creating, Saving & Sharing Visualizations","javascript,  typescript,  react,  d3.js",https://summerofcode.withgoogle.com/archive/2018/organizations/4645580374540288/
+195,The Wine Project,"Wine runs Windows applications on Linux, BSD, Solaris, macOS and Android.","directx,  x11,  win32,  opengl,  c",https://summerofcode.withgoogle.com/archive/2018/organizations/6258536686288896/
+196,TimVideos.us,"Software+hardware for recording & streaming conferences, meetings, user groups.","fpga,  verilog,  python,  c",https://summerofcode.withgoogle.com/archive/2018/organizations/5082529006616576/
+197,TLA+,"TLA+ is a formal specification language used to design, model and verify systems","java,  tla+,  eclipse,  ocaml,  smt",https://summerofcode.withgoogle.com/archive/2018/organizations/6308187447754752/
+198,UCSC Xena,Helping biologists see the bigger picture in diverse cancer genomics data,"javascript,  python,  clojure,  react,  jvm",https://summerofcode.withgoogle.com/archive/2018/organizations/5088326407159808/
+199,VideoLAN,Open Source Multimedia everywhere,"c,  c++,  go,  vue.js",https://summerofcode.withgoogle.com/archive/2018/organizations/4795301189648384/
+200,ViSP,Visual tracking and visual servoing library,c/c++,https://summerofcode.withgoogle.com/archive/2018/organizations/5088548537499648/
+201,vitrivr,vitrivr - the open-source multimedia search engine,"java,  angularjs,  spark,  grpc",https://summerofcode.withgoogle.com/archive/2018/organizations/4801054029905920/
+202,webpack,webpack is THE build tool for modern web applications run on NodeJS,"javascript,  web development,  html5/css3,  node.js,  webassembly",https://summerofcode.withgoogle.com/archive/2018/organizations/4872598588489728/
+203,Wikimedia Foundation,Global movement whose mission is to bring free educational content to the world,"php,  javascript,  ruby on rails,  android,  reactjs",https://summerofcode.withgoogle.com/archive/2018/organizations/6035427630776320/
+204,WorldBrain.io - Verifying the Internet,Bookmarking extension that works like your brain - full-text search everything.,"react,  javascript,  browser extension,  datproject",https://summerofcode.withgoogle.com/archive/2018/organizations/4651790628814848/
+205,X.org Foundation,"X Window System and related projects (Mesa, DRI, Wayland, etc.)","opengl,  vulkan,  x11,  wayland,  opencl",https://summerofcode.withgoogle.com/archive/2018/organizations/4893771770626048/
+206,Xapian Search Engine Library,"Fast, scalable and flexible search","c++,  unicode,  swig,  linux,  golang",https://summerofcode.withgoogle.com/archive/2018/organizations/5404190113267712/
+207,XBMC Foundation,The ultimate entertainment center,"python,  c/c++,  github,  mysql",https://summerofcode.withgoogle.com/archive/2018/organizations/5991099608858624/
+208,Xi Editor Project,A modern text editor with a backend written in Rust.,"rust,  swift",https://summerofcode.withgoogle.com/archive/2018/organizations/6530090020110336/
+209,xpra.org,"Screen for X11, remote desktop platform.","python,  javascript,  compression,  remote access,  cython",https://summerofcode.withgoogle.com/archive/2018/organizations/5969765231230976/
+210,XWiki,The Advanced Open Source Enterprise Wiki,"java,  javascript,  html5,  css3,  velocity",https://summerofcode.withgoogle.com/archive/2018/organizations/6278111670829056/
+211,Zulip,"Powerful, modern, open source team chat, complete with apps for every platform.","python,  django,  javascript,  react native,  electron",https://summerofcode.withgoogle.com/archive/2018/organizations/4721112676040704/

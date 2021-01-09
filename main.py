@@ -17,17 +17,18 @@ for i in range(2016, 2021):
         url3 = url1 + org.a['href']
         org_page = requests.get(url3)
         org_page = BeautifulSoup(org_page.content, 'lxml')
-        org_techs = org_page.find_all('ul', class_="org__tag-container")
+        org_techs = org_page.find_all('li', class_="organization__tag organization__tag--technology")
         tech_list = ""
         for tech in org_techs:
             if not len(tech_list):
-                tech_list = tech_list + tech.li.text.strip()
+                tech_list = tech_list + tech.text.strip()
                 continue
-            tech_list = tech_list +",  " + tech.li.text.strip()
+            tech_list = tech_list +",  " + tech.text.strip()
         org_details["Organisation Name"].append(org_name)
         org_details["Organisation Tagline"].append(org_tagline)
         org_details["Technologies Used"].append(tech_list)
         org_details["GSOC Organisation Link"].append(url3)
 
     df = pd.DataFrame(org_details)
+    print(df)
     df.to_csv('Gsoc-'+str(i)+'.csv')
